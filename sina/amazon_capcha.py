@@ -117,7 +117,7 @@ def binarized(image_url):
     for word in image_word_list:
         sigle_word = tesseract_image(word)
         word_list.append(sigle_word)
-    print word_list
+    print ''.join(word_list)
 
 
 
