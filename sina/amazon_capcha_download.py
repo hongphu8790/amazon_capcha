@@ -72,7 +72,7 @@ def main():
 
     for picurl in hp.links:
         picture_name =  binarized(picurl)
-        queue.put(picurl, picture_name)
+        queue.put((picurl, picture_name))
 
     queue.join()
 

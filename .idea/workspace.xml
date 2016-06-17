@@ -48,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amazon_capcha.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="amazon_capcha.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sina/amazon_capcha.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="232">
               <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
               <folding>
                 <element signature="e#167#177#0" expanded="true" />
@@ -60,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amazon_capcha_download.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="amazon_capcha_download.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sina/amazon_capcha_download.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="1406">
+              <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
               <folding>
                 <element signature="e#83#92#0" expanded="true" />
               </folding>
@@ -795,22 +795,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sina/amazon_capcha_download.py">
+    <entry file="file://$PROJECT_DIR$/sina/amazon_capcha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="232">
+          <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
           <folding>
-            <element signature="e#83#92#0" expanded="true" />
+            <element signature="e#167#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sina/amazon_capcha.py">
+    <entry file="file://$PROJECT_DIR$/sina/amazon_capcha_download.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="112" column="32" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
+        <state relative-caret-position="1406">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
           <folding>
-            <element signature="e#167#177#0" expanded="true" />
+            <element signature="e#83#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
