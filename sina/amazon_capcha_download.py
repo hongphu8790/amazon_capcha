@@ -29,15 +29,16 @@ class MyHTMLParser(HTMLParser):
                             self.links.append(''.join(res.group()))
 def download_images(queue):
     while True:
-        picurl, picture_name =  queue.get()
+        picurl =  queue.get()
 
         if not os.path.exists('amazonpicture'):
             os.mkdir('amazonpicture')
 
         save_path = "amazonpicture/"
         imgData = urllib2.urlopen(picurl).read()
+        picture_name = binarized(imgData)
         # 给定图片存放名称
-        picName = save_path + picture_name
+        picName = save_path + picture_name + '.jpg'
         print picName
 
         output = open(picName, 'wb+')
@@ -71,8 +72,7 @@ def main():
         hp.close()
 
     for picurl in hp.links:
-        picture_name =  binarized(picurl)
-        queue.put((picurl, picture_name))
+        queue.put(picurl)
 
     queue.join()
 

@@ -82,10 +82,9 @@ def split_image(image, split_seq=None):
     return res
 
 
-def binarized(image_url):
-    print image_url
+def binarized(image_buffer):
     #网络上的图片转换成Image对象
-    image = Image.open(StringIO.StringIO(urllib.urlopen(image_url).read()))
+    image = Image.open(StringIO.StringIO(image_buffer))
     #灰度化处理
     #有很多种算法，这里选择rgb加权平均值算法
     #gray_image = Image.new('RGB', image.size)
