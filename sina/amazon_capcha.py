@@ -77,13 +77,9 @@ def split_image(image, split_seq=None):
         child_img.putdata(datas)
         res.append(child_img)
 
-    print(type(res))
-    print(res)
+    #print(type(res))
+    #print(res)
     return res
-    # for index, im in enumerate(res):
-    #     im.save(os.path.join('singleword', '{0}_{1}.png'.format(img, index)))
-
-
 
 
 def binarized(image_url):
@@ -110,15 +106,15 @@ def binarized(image_url):
 
 
     image.close()
-    print(type(gray_image))
-    print(gray_image)
+    #print(type(gray_image))
+    #print(gray_image)
     image_word_list = split_image(gray_image)
     word_list = []
     for word in image_word_list:
         sigle_word = tesseract_image(word)
         word_list.append(sigle_word)
     word_string = ''.join(word_list)
-    print word_string
+    #print word_string
     return  word_string
 
 

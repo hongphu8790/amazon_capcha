@@ -2,6 +2,230 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dee7c2e-b9e6-4ef0-9d43-c5a8a9324571" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sina/amazon_capcha_download.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sfutexxsfr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sgbklreurb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sgghjyenhl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sjdxruayhp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sjorzqsplx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sjrvgxtfbk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_skajzrsmzh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_slhehxvyun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_slvbnzbiip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sonukveopm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_srpenahbyz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_sxgywznuwr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_szpnkzjqns.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_szzzlkpqgj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_taangbtljo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tayeoeorlj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tddrfdeuae.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tfyxnilfhc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tgtapjnrmk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tjvxxevcti.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tmeukwpjwr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tnaemudexh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tpbmpxqaig.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tpdkvvkqmu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_tpuppoohsy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_trnwhcegie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ttgbcyqcbp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uaxjqqyarx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ubvnzjrxin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ufocqntndy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ufqhmudreh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ugszrzbgrb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uhercdtdjj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uhsyovlunw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uiqmsnzqho.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ujkahbrnot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ujxqrdvjmw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_unqxvmyuvi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uxeqpbicvw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uxwpssfglr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_uzpxypwxdo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vcbldrwayx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vdfrytaeqx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vdplqcrxbt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vepvzftuot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vrmjqwxyce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vrrulwzizg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vtrxncfskf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vwitbbtmen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vxbatnmzau.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vyiqwsfonb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_vymfbcxprn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wblqjcayxl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wbpxgicxpa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wczncsdkrj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wjmkorjbsq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wjwpkxlnak.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wkkbrdavar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wlvpdwfwdg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wnpkfqbbhw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wowqarpxko.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wptkpsmikt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wqlrrrgyrc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wroqdshuni.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wrqzmgfgrq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wrxwtyrpso.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wugdxhxqdo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wvsnlyjsil.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wyhqqniysu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wzensnvmdj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_wzlauggibu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xdhpullefv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xjooggfttc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xmwumicxao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xofbwvlmkt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xuvermbldi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xvhjgteykv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xyosxxullg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_xzeynztmbj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ybtbwpciie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yclakrkskr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yeavclifms.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yewmoiopxe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yfnajnvnsx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ygctckdldd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yiyhgdajpm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ylgesywupi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ymeucajqeq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ypkdhqqfnq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ysarfytnfo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ytckeikgjf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yvezdrvyqo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yvuczereey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yypweardoh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_yztblfmsul.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zebemftrbu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zfnvnqiqrl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zgxgptganc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ziscjdbrof.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zivvexchwo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zjuwoxvyvb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_znzgigslzn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zoyqbcvyoa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zpnmmlqhpa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zpykagmnve.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zqhrgnhzmj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zqjjpklvan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zrzvujplbx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zswysiynrg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_ztzqidcpiu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/amazonpicture/Captcha_zxaiacdfqj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sfutexxsfr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sgbklreurb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sgghjyenhl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sjdxruayhp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sjorzqsplx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sjrvgxtfbk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_skajzrsmzh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_slhehxvyun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_slvbnzbiip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sonukveopm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_srpenahbyz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_sxgywznuwr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_szpnkzjqns.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_szzzlkpqgj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_taangbtljo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tayeoeorlj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tddrfdeuae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tfyxnilfhc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tgtapjnrmk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tjvxxevcti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tmeukwpjwr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tnaemudexh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tpbmpxqaig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tpdkvvkqmu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_tpuppoohsy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_trnwhcegie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ttgbcyqcbp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uaxjqqyarx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ubvnzjrxin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ufocqntndy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ufqhmudreh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ugszrzbgrb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uhercdtdjj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uhsyovlunw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uiqmsnzqho.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ujkahbrnot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ujxqrdvjmw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_unqxvmyuvi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uxeqpbicvw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uxwpssfglr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_uzpxypwxdo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vcbldrwayx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vdfrytaeqx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vdplqcrxbt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vepvzftuot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vrmjqwxyce.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vrrulwzizg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vtrxncfskf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vwitbbtmen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vxbatnmzau.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vyiqwsfonb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_vymfbcxprn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wblqjcayxl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wbpxgicxpa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wczncsdkrj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wjmkorjbsq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wjwpkxlnak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wkkbrdavar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wlvpdwfwdg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wnpkfqbbhw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wowqarpxko.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wptkpsmikt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wqlrrrgyrc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wroqdshuni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wrqzmgfgrq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wrxwtyrpso.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wugdxhxqdo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wvsnlyjsil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wyhqqniysu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wzensnvmdj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_wzlauggibu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xdhpullefv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xjooggfttc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xmwumicxao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xofbwvlmkt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xuvermbldi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xvhjgteykv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xyosxxullg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_xzeynztmbj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ybtbwpciie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yclakrkskr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yeavclifms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yewmoiopxe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yfnajnvnsx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ygctckdldd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yiyhgdajpm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ylgesywupi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ymeucajqeq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ypkdhqqfnq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ysarfytnfo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ytckeikgjf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yvezdrvyqo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yvuczereey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yypweardoh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_yztblfmsul.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zebemftrbu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zfnvnqiqrl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zgxgptganc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ziscjdbrof.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zivvexchwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zjuwoxvyvb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_znzgigslzn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zoyqbcvyoa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zpnmmlqhpa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zpykagmnve.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zqhrgnhzmj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zqjjpklvan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zrzvujplbx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zswysiynrg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_ztzqidcpiu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sina/training_amazon/Captcha_zxaiacdfqj.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sina/amazon_capcha.py" afterPath="$PROJECT_DIR$/sina/amazon_capcha.py" />
     </list>
     <ignored path="2014101711073747148.iws" />
@@ -48,13 +272,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amazon_capcha.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="amazon_capcha.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sina/amazon_capcha.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
+            <state relative-caret-position="118">
+              <caret line="84" column="13" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="13" />
               <folding>
                 <element signature="e#167#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="amazon_capcha_download.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sina/amazon_capcha_download.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-95">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="e#83#92#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,16 +360,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EpsImagePlugin.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python2.7/site-packages/PIL/EpsImagePlugin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6251">
-              <caret line="332" column="8" selection-start-line="332" selection-start-column="8" selection-end-line="332" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -155,6 +381,7 @@
         <option value="$PROJECT_DIR$/sina/spilt_image.py" />
         <option value="$PROJECT_DIR$/sina/test.py" />
         <option value="$PROJECT_DIR$/sina/amazon_capcha.py" />
+        <option value="$PROJECT_DIR$/sina/amazon_capcha_download.py" />
       </list>
     </option>
   </component>
@@ -794,10 +1021,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sina/amazon_capcha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
+        <state relative-caret-position="118">
+          <caret line="84" column="13" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="13" />
           <folding>
             <element signature="e#167#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sina/amazon_capcha_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#83#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
