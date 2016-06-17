@@ -13,7 +13,7 @@ import pytesseract
 from PIL import Image
 
 def tesseract_image(image):
-    print pytesseract.image_to_string(image, config='-psm 10', lang='image')
+    return pytesseract.image_to_string(image, config='-psm 10', lang='image')
 
 
 
@@ -113,8 +113,11 @@ def binarized(image_url):
     print(type(gray_image))
     print(gray_image)
     image_word_list = split_image(gray_image)
+    word_list = []
     for word in image_word_list:
-        tesseract_image(word)
+        sigle_word = tesseract_image(word)
+        word_list.append(sigle_word)
+    print word_list
 
 
 
