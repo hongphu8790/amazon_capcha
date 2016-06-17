@@ -30,6 +30,10 @@ class MyHTMLParser(HTMLParser):
 def download_images(queue):
     while True:
         picurl, picture_name =  queue.get()
+
+        if not os.path.exists('amazonpicture'):
+            os.mkdir('amazonpicture')
+
         save_path = "amazonpicture/"
         imgData = urllib2.urlopen(picurl).read()
         # 给定图片存放名称
