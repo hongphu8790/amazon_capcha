@@ -130,5 +130,6 @@ if __name__ == '__main__':
         exit('Usage: amazon_capcha url')
     if len(sys.argv) == 2:
         url = sys.argv[1]
-        binarized(url)
+        image_buffer = urllib.urlopen(url).read()
+        binarized(image_buffer)
 
