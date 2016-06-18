@@ -74,10 +74,3 @@ if __name__ == '__main__':
             image_name = os.path.join(root, name)
             #print image_name
             binarized(image_name)
-
-        # arg1  = sys.argv[1]
-        #
-        # if arg1.startswith('show'):
-        #     show_image_pixel(filename)
-        # else:
-        #     exit('Usage: test.py show/bin filename.png')

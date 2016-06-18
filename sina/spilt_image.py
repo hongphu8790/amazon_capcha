@@ -11,11 +11,10 @@ from PIL import Image
 #图片x轴的投影，如果有数据（黑色像素点）值为1否则为0
 def get_projection_x(image):
     p_x = [0 for x in xrange(image.size[0])]
-    for w in xrange(image.size[1]):
-        for h in xrange(image.size[0]):
+    for w in xrange(image.size[0]):
+        for h in xrange(image.size[1]):
             #print(image.getpixel((h,w)))
-            if image.getpixel((h,w)) == 0:
-
+            if image.getpixel((w,h)) == 0:
                 p_x[h] = 1
     return p_x
 
