@@ -25,47 +25,47 @@ def get_projection_x(image):
 
 #获取分割后的x轴坐标点
 #返回值为[起始位置, 长度] 的列表
-# def get_split_seq(projection_x):
-#     res = []
-#     for idx in xrange(len(projection_x) - 1):
-#         p1 = projection_x[idx]
-#         p2 = projection_x[idx + 1]
-#         if p1 == 1 and idx == 0:
-#             res.append([idx, 1])
-#         elif p1 == 0 and p2 == 0:
-#             continue
-#         elif p1 == 1 and p2 == 1:
-#             res[-1][1] += 1
-#         elif p1 == 0 and p2 == 1:
-#             res.append([idx + 1, 1])
-#         elif p1 == 1 and p2 == 0:
-#             continue
-#     return res
-
-
-#获取分割后的x轴坐标点
-#返回值为[起始位置, 长度] 的列表
 def get_split_seq(projection_x):
     res = []
-    length = len(projection_x)
-    idx = 0
-
-    while idx < length:
-        if projection_x[idx] == 0:
-            idx += 1
+    for idx in xrange(len(projection_x) - 1):
+        p1 = projection_x[idx]
+        p2 = projection_x[idx + 1]
+        if p1 == 1 and idx == 0:
+            res.append([idx, 1])
+        elif p1 == 0 and p2 == 0:
             continue
-        else:
-            for idx2 in range(idx, length):
-                if projection_x[idx2] == 1:
-                    continue
-                else:
-                    weight = idx2 - idx
-                    res.append([idx, weight])
-                    idx = idx2 + 1
-                    break
-
-    #print(res)
+        elif p1 == 1 and p2 == 1:
+            res[-1][1] += 1
+        elif p1 == 0 and p2 == 1:
+            res.append([idx + 1, 1])
+        elif p1 == 1 and p2 == 0:
+            continue
     return res
+
+
+# #获取分割后的x轴坐标点
+# #返回值为[起始位置, 长度] 的列表
+# def get_split_seq(projection_x):
+#     res = []
+#     length = len(projection_x)
+#     idx = 0
+#
+#     while idx < length:
+#         if projection_x[idx] == 0:
+#             idx += 1
+#             continue
+#         else:
+#             for idx2 in range(idx, length):
+#                 if projection_x[idx2] == 1:
+#                     continue
+#                 else:
+#                     weight = idx2 - idx
+#                     res.append([idx, weight])
+#                     idx = idx2 + 1
+#                     break
+#
+#     #print(res)
+#     return res
 
 
 
