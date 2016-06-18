@@ -59,7 +59,7 @@ def get_split_seq(projection_x):
                 if projection_x[idx2] == 1:
                     continue
                 else:
-                    weight = idx2 - idx - 1
+                    weight = idx2 - idx
                     res.append([idx, weight])
                     idx = idx2 + 1
 
