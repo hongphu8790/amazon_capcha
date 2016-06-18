@@ -50,7 +50,7 @@ def get_split_seq(projection_x):
     length = len(projection_x)
     idx = 0
 
-    while True:
+    while idx < length:
         if projection_x[idx] == 0:
             idx += 1
             continue
