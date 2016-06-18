@@ -55,13 +55,14 @@ def get_split_seq(projection_x):
             idx += 1
             continue
         else:
-            for idx2 in range(idx+1, length):
+            for idx2 in range(idx, length):
                 if projection_x[idx2] == 1:
                     continue
                 else:
                     weight = idx2 - idx
                     res.append([idx, weight])
                     idx = idx2 + 1
+                    break
 
     print(res)
     return res
