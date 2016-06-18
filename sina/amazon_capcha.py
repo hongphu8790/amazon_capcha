@@ -61,7 +61,7 @@ def get_split_seq(projection_x):
                 else:
                     weight = idx2 - idx - 1
                     res.append([idx, weight])
-                    idx += 1
+                    idx = idx2 + 1
 
     print(res)
     return res
