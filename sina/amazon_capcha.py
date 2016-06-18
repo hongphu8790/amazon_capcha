@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Created by Chuande Wang on 16/6/17
-
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Created by Chuande Wang on 16/6/15
 import sys
 import os
 import StringIO
@@ -52,16 +48,21 @@ def get_projection_x(image):
 def get_split_seq(projection_x):
     res = []
     length = len(projection_x)
-    for idx in xrange(length - 1):
+    idx = 0
+
+    while True:
         if projection_x[idx] == 0:
+            idx += 1
             continue
         else:
             for idx2 in range(idx+1, length):
                 if projection_x[idx2] == 1:
                     continue
                 else:
-                    weight = idx2 - idx-1
+                    weight = idx2 - idx - 1
                     res.append([idx, weight])
+                    idx += 1
+
     print(res)
     return res
 
