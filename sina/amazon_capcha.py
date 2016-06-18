@@ -131,5 +131,5 @@ if __name__ == '__main__':
     if len(sys.argv) == 2:
         url = sys.argv[1]
         image_buffer = urllib.urlopen(url).read()
-        binarized(image_buffer)
+        print binarized(image_buffer)
 
