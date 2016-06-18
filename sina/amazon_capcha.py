@@ -64,7 +64,7 @@ def get_split_seq(projection_x):
                     idx = idx2 + 1
                     break
 
-    print(res)
+    #print(res)
     return res
 
 
