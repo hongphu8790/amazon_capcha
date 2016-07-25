@@ -6,7 +6,7 @@ import pytesseract
 from PIL import Image
 
 def tesseract_image(image):
-    return pytesseract.image_to_string(image, config='-psm 10', lang='image')
+    return pytesseract.image_to_string(image, config="--tessdata-dir . -psm 10", lang='image')
 
 #图片x轴的投影，如果有数据（黑色像素点）值为1否则为0
 def get_projection_x(image):

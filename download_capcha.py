@@ -56,7 +56,7 @@ def create_threads(thread_num, thread_queue, fun):
 def main():
     hp = MyHTMLParser()
     queue = Queue.Queue()
-    create_threads(cpu_count, queue, download_images)
+    create_threads(cpu_nums, queue, download_images)
 
     for filename in os.listdir(r'capcha_html'):
         htmlname = 'capcha_html/{}'.format(filename)
