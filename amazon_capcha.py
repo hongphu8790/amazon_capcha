@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Created by Chuande Wang on 16/6/17
-import sys
-import os
 import StringIO
-import urllib
 import pytesseract
 from PIL import Image
 
@@ -40,9 +37,6 @@ def get_split_seq(projection_x):
             continue
     return res
 
-
-
-
 #分割后的图片，x轴分割后，同时去掉y轴上线多余的空白
 def split_image(image, split_seq=None):
 
@@ -77,7 +71,6 @@ def split_image(image, split_seq=None):
     #print(res)
     return res
 
-
 def binarized(image_buffer):
     #网络上的图片转换成Image对象
     image = Image.open(StringIO.StringIO(image_buffer))
@@ -99,7 +92,6 @@ def binarized(image_buffer):
             else:
                 gray_image.putpixel((x, y), 255)
 
-
     image.close()
     #print(type(gray_image))
     #print(gray_image)
@@ -111,22 +103,3 @@ def binarized(image_buffer):
     word_string = ''.join(word_list)
     #print word_string
     return  word_string
-
-
-
-
-def main(filename):
-    root, dirs, files = os.walk(filename)
-    for name in files:
-        print(os.path.abspath(name))
-    #binarized(filename)
-
-
-if __name__ == '__main__':
-    if len(sys.argv) < 2:
-        exit('Usage: amazon_capcha url')
-    if len(sys.argv) == 2:
-        url = sys.argv[1]
-        image_buffer = urllib.urlopen(url).read()
-        print binarized(image_buffer)
-

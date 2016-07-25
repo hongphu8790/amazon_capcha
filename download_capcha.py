@@ -6,8 +6,11 @@ import urllib2
 import os
 import threading
 import Queue
+from multiprocessing import cpu_count
 from HTMLParser import HTMLParser
 from amazon_capcha import  binarized
+
+cpu_nums = cpu_count()
 
 class MyHTMLParser(HTMLParser):
     def __init__(self):
@@ -45,7 +48,6 @@ def download_images(queue):
 
 def create_threads(thread_num, thread_queue, fun):
     """创建处理单url的线程"""
-
     for i in range(thread_num):
         th = threading.Thread(target=fun, args = (thread_queue,))
         th.daemon = True
@@ -54,10 +56,10 @@ def create_threads(thread_num, thread_queue, fun):
 def main():
     hp = MyHTMLParser()
     queue = Queue.Queue()
-    create_threads(8, queue, download_images)
+    create_threads(cpu_count, queue, download_images)
 
-    for filename in os.listdir(r'debug'):
-        htmlname = 'debug/{}'.format(filename)
+    for filename in os.listdir(r'capcha_html'):
+        htmlname = 'capcha_html/{}'.format(filename)
         #print(htmlname)
         f = open(htmlname, 'r')
         data = f.read()
